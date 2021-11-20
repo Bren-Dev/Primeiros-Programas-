@@ -1,0 +1,392 @@
+Elaborar um programa que leia duas matrizes A e B, cada uma de duas dimensões com
+cinco linhas e três colunas para valores inteiros. Construir uma matriz C de mesma
+dimensão, que seja formada pela soma dos elementos da matriz A com os elementos da
+matriz B. Apresentar os elementos da matriz C.
+
+111111111111111
+222222222222222
+|3|	|3|	|3|	
+|3|	|3|	|3|	
+|3|	|3|	|3|	
+|3|	|3|	|3|	
+|3|	|3|	|3|	
+
+Elaborar um programa que leia duas matrizes A e B, cada uma com uma dimensão para sete
+elementos inteiros. Construir uma matriz C de duas dimensões, cuja primeira coluna deve
+ser formada pelos elementos da matriz A e a segunda coluna pelos elementos da matriz B.
+Apresentar a matriz C.
+1111111
+2222222
+MATRIZ C
+|1|	|2|	
+|1|	|2|	
+|1|	|2|	
+|1|	|2|	
+|1|	|2|	
+|1|	|2|	
+|1|	|2|	
+
+Elaborar um programa que leia 20 elementos para uma matriz qualquer, considerando que
+essa matriz tenha o tamanho de quatro linhas por cinco colunas. Em, seguida, apresentar a
+matriz.
+|25|	|22|	|13|	|84|	|36|	
+|86|	|57|	|84|	|16|	|87|	
+|86|	|53|	|15|	|39|	|13|	
+|10|	|17|	|47|	|64|	|45|	
+
+Elaborar um programa que leia uma matriz A de uma dimensão com dez elementos inteiros.
+Construir uma matriz C de duas dimensões com três colunas, sendo a primeira coluna da
+matriz C formada pelos elementos da matriz A somados com 5, a segunda coluna formada
+pelo valor do cálculo da fatorial de cada elemento correspondente da matriz A e a terceira e
+última coluna pelos quadrados dos elementos correspondentes da matriz A. Apresentar a
+matriz C.
+MATRIZ C
+|7|	|2|	|4|	
+|6|	|1|	|1|	
+|14|	|362880|	|81|	
+|8|	|6|	|9|	
+|14|	|362880|	|81|	
+|10|	|120|	|25|	
+|9|	|24|	|16|	
+|6|	|1|	|1|	
+|8|	|6|	|9|	
+|14|	|362880|	|81|	
+
+Elaborar um programa que leia duas matrizes A e B, cada uma com uma dimensão para 12
+elementos reais. Construir uma matriz C de duas dimensões, sendo a primeira coluna da
+matriz C formada pelos elementos da matriz A multiplicados por 2 e a segunda coluna
+formada pelos elementos da matriz B subtraídos de 5. Apresentar separadamente as matrizes.
+|2|	|0|	
+|20|	|-4|	
+|2|	|2|	
+|18|	|1|	
+|18|	|3|	
+|18|	|0|	
+|4|	|1|	
+|12|	|-2|	
+|4|	|-1|	
+|4|	|4|	
+|8|	|4|	
+|8|	|4|	
+
+Elaborar um programa que leia uma matriz A de duas dimensões com cinco linhas e quatro
+colunas. Construir uma matriz B de mesma dimensão, em que cada elemento seja o fatorial
+de cada elemento correspondente armazenado na matriz A. Apresentar ao final as matrizes
+A e B.
+|4|	|3|	|2|	|4|	
+|4|	|5|	|3|	|5|	
+|3|	|5|	|3|	|4|	
+|2|	|4|	|4|	|2|	
+|3|	|4|	|4|	|2|	
+
+|24|	|6|	|2|	|24|	
+|24|	|120|	|6|	|120|	
+|6|	|120|	|6|	|24|	
+|2|	|24|	|24|	|2|	
+|6|	|24|	|24|	|2|	
+
+Elaborar um programa que leia uma matriz A de duas dimensões com quatro linhas e cinco
+colunas, armazenando nessa matriz os valores das temperaturas em graus Celsius.
+Construir a matriz B de mesma dimensão, em que cada elemento seja o valor da
+temperatura em graus Fahrenheit de cada elemento correspondente da matriz A. Apresentar
+ao final as matrizes A e B. 
+|11|	|4|	|14|	|79|	|4|	
+|30|	|2|	|26|	|70|	|57|	
+|44|	|44|	|54|	|54|	|57|	
+|22|	|48|	|21|	|42|	|12|	
+
+|51|	|39|	|57|	|174|	|39|	
+|86|	|35|	|78|	|158|	|134|	
+|111|	|111|	|129|	|129|	|134|	
+|71|	|118|	|69|	|107|	|53|	
+
+Elaborar um programa que leia uma matriz A do tipo inteira de duas dimensões com cinco
+linhas e cinco colunas. Construir uma matriz B de mesma dimensão, em que cada elemento
+seja o dobro de cada elemento correspondente da matriz A, com exceção dos valores
+situados na diagonal principal (posições B[1,1], B[2,2], B[3,3], B[4,4] e B[5,5]), os quais
+devem ser o triplo de cada elemento correspondente da matriz A. Apresentar ao final a matriz B.
+|10|	|19|	|15|	|7|	|15|	
+|3|	|17|	|3|	|15|	|5|	
+|16|	|8|	|15|	|8|	|18|	
+|18|	|4|	|9|	|7|	|20|	
+|15|	|4|	|9|	|19|	|4|	
+
+|30|	|38|	|30|	|14|	|30|	
+|6|	|51|	|6|	|30|	|10|	
+|32|	|16|	|45|	|16|	|36|	
+|36|	|8|	|18|	|21|	|40|	
+|30|	|8|	|18|	|38|	|12|	
+
+Elaborar um programa que leia uma matriz A do tipo inteira de duas dimensões com sete
+linhas e sete colunas. Construir a matriz B de mesma dimensão, em que cada elemento seja
+o somatório de 1 até o valor armazenado na posição da matriz A, com exceção dos valores
+situados nos índices ímpares da diagonal principal (B[1,1], B[3,3], B[5,5]), os quais
+devem ser o fatorial de cada elemento correspondente da matriz A. Apresentar ao final a matriz B.
+|3|	|3|	|6|	|7|	|5|	|6|	|3|	
+|6|	|5|	|2|	|4|	|1|	|1|	|3|	
+|3|	|1|	|1|	|7|	|1|	|2|	|4|	
+|5|	|6|	|3|	|1|	|3|	|1|	|3|	
+|4|	|4|	|6|	|6|	|5|	|3|	|3|	
+|2|	|1|	|3|	|2|	|7|	|1|	|6|	
+|6|	|3|	|5|	|7|	|1|	|1|	|1|	
+
+|6|	|6|	|21|	|28|	|15|	|21|	|6|	
+|21|	|120|	|3|	|10|	|1|	|1|	|6|	
+|6|	|1|	|1|	|28|	|1|	|3|	|10|	
+|15|	|21|	|6|	|1|	|6|	|1|	|6|	
+|10|	|10|	|21|	|21|	|15|	|6|	|6|	
+|3|	|1|	|6|	|3|	|28|	|1|	|21|	
+|21|	|6|	|15|	|28|	|1|	|1|	|1|	
+
+Elaborar um programa que leia uma matriz A de duas dimensões com seis linhas e cinco
+colunas. Construir a matriz B de mesma dimensão, que deve ser formada do seguinte modo:
+para cada elemento par da matriz A deve ser somado 5 e de cada elemento ímpar da matriz
+A deve ser subtraído 4. Apresentar ao final as matrizes A e B.
+|69|	|68|	|49|	|34|	|18|	
+|55|	|58|	|71|	|46|	|64|	
+|21|	|37|	|58|	|16|	|60|	
+|27|	|20|	|75|	|67|	|32|	
+|61|	|76|	|27|	|79|	|80|	
+|70|	|53|	|49|	|64|	|29|	
+
+|65|	|73|	|45|	|39|	|23|	
+|51|	|63|	|67|	|51|	|69|	
+|17|	|33|	|63|	|21|	|65|	
+|23|	|25|	|71|	|63|	|37|	
+|57|	|81|	|23|	|75|	|85|	
+|75|	|49|	|45|	|69|	|25|	
+
+Elaborar um programa que leia uma matriz A do tipo real de duas dimensões com cinco
+linhas e cinco colunas. Apresentar o somatório dos elementos situados na diagonal principal
+(posições A[1,1], A[2,2], A[3,3], A[4,4] e A[5,5]) da referida matriz.
+|9|	|2|	|10|	|14|	|9|	
+|8|	|5|	|8|	|12|	|4|	
+|14|	|1|	|19|	|10|	|1|	
+|12|	|8|	|3|	|11|	|8|	
+|18|	|17|	|12|	|10|	|14|	
+
+|58|	
+Elaborar um programa que leia uma matriz A de duas dimensões com 15 linhas e 15
+colunas. Apresentar o somatório dos elementos pares situados na diagonal principal da
+referida matriz.
+|9|	|16|	|11|	|2|	|1|	|20|	|20|	|12|	|17|	|3|	|7|	|5|	|20|	|4|	|2|	
+|16|	|16|	|2|	|8|	|16|	|15|	|19|	|17|	|10|	|15|	|3|	|12|	|2|	|7|	|14|	
+|2|	|2|	|17|	|20|	|8|	|20|	|3|	|19|	|1|	|9|	|1|	|10|	|9|	|7|	|3|	
+|16|	|9|	|8|	|14|	|3|	|4|	|11|	|4|	|10|	|6|	|7|	|6|	|17|	|11|	|6|	
+|14|	|11|	|2|	|12|	|4|	|4|	|18|	|7|	|8|	|20|	|16|	|5|	|12|	|16|	|2|	
+|3|	|8|	|12|	|12|	|5|	|11|	|4|	|17|	|16|	|7|	|11|	|13|	|19|	|13|	|5|	
+|8|	|9|	|18|	|4|	|17|	|9|	|13|	|9|	|8|	|19|	|8|	|4|	|5|	|3|	|16|	
+|5|	|6|	|20|	|1|	|8|	|10|	|2|	|6|	|7|	|11|	|2|	|3|	|3|	|1|	|17|	
+|20|	|4|	|17|	|4|	|11|	|17|	|12|	|4|	|16|	|3|	|16|	|2|	|8|	|17|	|19|	
+|8|	|8|	|17|	|9|	|12|	|20|	|12|	|1|	|16|	|16|	|3|	|18|	|18|	|17|	|8|	
+|20|	|6|	|7|	|7|	|12|	|3|	|17|	|6|	|12|	|3|	|2|	|15|	|4|	|14|	|3|	
+|20|	|4|	|11|	|13|	|12|	|7|	|15|	|12|	|4|	|3|	|18|	|16|	|16|	|2|	|20|	
+|3|	|19|	|16|	|18|	|7|	|8|	|2|	|9|	|1|	|11|	|15|	|18|	|6|	|3|	|9|	
+|3|	|5|	|18|	|18|	|13|	|14|	|10|	|15|	|6|	|1|	|4|	|13|	|1|	|10|	|10|	
+|6|	|3|	|20|	|17|	|14|	|20|	|7|	|5|	|7|	|3|	|14|	|8|	|9|	|2|	|4|	
+
+|110|	
+Elaborar um programa que leia uma matriz A do tipo real de duas dimensões com cinco
+linhas e cinco colunas. Apresentar o somatório dos elementos situados nas posições de linha
+e coluna ímpares da diagonal principal (A[1,1], A[3,3], A[5,5]) da referida matriz.
+|28|	|11|	|12|	|20|	|30|	
+|30|	|26|	|28|	|13|	|13|	
+|17|	|10|	|12|	|28|	|3|	
+|3|	|24|	|29|	|12|	|22|	
+|22|	|30|	|30|	|19|	|9|	
+
+|38|	
+Elaborar um programa que leia uma matriz A de duas dimensões com sete linhas e sete
+colunas. Ao final, apresentar o total de elementos pares existentes na matriz. 
+|21|	|24|	|19|	|3|	|28|	|30|	|26|	
+|5|	|2|	|5|	|2|	|18|	|24|	|20|	
+|28|	|26|	|21|	|4|	|17|	|14|	|25|	
+|13|	|11|	|25|	|26|	|18|	|21|	|17|	
+|4|	|26|	|18|	|16|	|3|	|10|	|13|	
+|22|	|9|	|17|	|12|	|8|	|9|	|29|	
+|29|	|26|	|6|	|10|	|25|	|28|	|7|	
+
+27
+Elaborar um programa que leia uma matriz A do tipo real de duas dimensões com oito linhas
+e seis colunas. Construir a matriz B de uma dimensão que seja formada pela soma de cada
+linha da matriz A. Ao final, apresentar o somatório dos elementos da matriz B.
+|1|	|8|	|10|	|3|	|10|	|2|	
+|10|	|2|	|8|	|2|	|4|	|2|	
+|5|	|4|	|9|	|10|	|9|	|1|	
+|3|	|10|	|2|	|5|	|4|	|5|	
+|10|	|4|	|8|	|8|	|6|	|4|	
+|4|	|4|	|3|	|3|	|9|	|6|	
+|4|	|8|	|8|	|5|	|3|	|1|	
+|9|	|1|	|8|	|3|	|4|	|10|	
+262
+Elaborar um programa que leia uma matriz A de duas dimensões com dez linhas e sete
+colunas. Ao final, apresentar o total de elementos pares e ímpares existentes na matriz.
+Apresentar também o percentual de elementos pares e ímpares em relação ao total de
+elementos da matriz. Supondo a existência de 20 elementos pares e 50 elementos ímpares,
+haveria 28,6% de elementos pares e 71,4% de elementos ímpares.
+|10|	|3|	|3|	|1|	|9|	|4|	|7|	
+|6|	|3|	|2|	|7|	|7|	|6|	|8|	
+|10|	|7|	|7|	|10|	|8|	|8|	|9|	
+|6|	|9|	|5|	|4|	|1|	|8|	|8|	
+|7|	|3|	|1|	|3|	|5|	|7|	|6|	
+|7|	|10|	|1|	|4|	|9|	|7|	|3|	
+|8|	|7|	|2|	|9|	|2|	|1|	|6|	
+|8|	|6|	|9|	|8|	|9|	|5|	|10|	
+|9|	|2|	|6|	|9|	|5|	|3|	|2|	
+|7|	|3|	|7|	|5|	|10|	|2|	|7|	
+
+Elementos pares: 
+|10|	|4|	
+|6|	|2|	|6|	|8|	
+|10|	|10|	|8|	|8|	
+|6|	|4|	|8|	|8|	
+|6|	
+|10|	|4|	
+|8|	|2|	|2|	|6|	
+|8|	|6|	|8|	|10|	
+|2|	|6|	|2|	
+|10|	|2|	
+Elementos impares: 
+|3|	|3|	|1|	|9|	|7|	
+|3|	|7|	|7|	
+|7|	|7|	|9|	
+|9|	|5|	|1|	
+|7|	|3|	|1|	|3|	|5|	|7|	
+|7|	|1|	|9|	|7|	|3|	
+|7|	|9|	|1|	
+|9|	|9|	|5|	
+|9|	|9|	|5|	|3|	
+|7|	|3|	|7|	|5|	|7|	
+
+30 Elementos pares
+42% eh par
+40 Elementos impares
+57% eh impar
+Elaborar um programa que faça a leitura de 20 valores inteiros em uma matriz A de duas
+dimensões com quatro linhas e cinco colunas. Construir a matriz B de uma dimensão para
+quatro elementos que seja formada pelo somatório dos elementos correspondentes de cada
+linha da matriz A. Construir também a matriz C de uma dimensão para cinco elementos que
+seja formada pelo somatório dos elementos correspondentes de cada coluna da matriz A. Ao
+final, o programa deve apresentar o somatório dos elementos da matriz B com o somatório
+dos elementos da matriz C
+|2|	|10|	|15|	|5|	|14|	
+|16|	|7|	|20|	|12|	|3|	
+|6|	|3|	|17|	|17|	|8|	
+|5|	|13|	|6|	|18|	|10|	
+
+414
+Elaborar um programa que leia quatro matrizes A, B, C e D de uma dimensão com quatro
+elementos. Construir uma matriz E de duas dimensões do tipo 4 × 4, sendo a primeira linha
+formada pelo dobro dos valores dos elementos da matriz A, a segunda linha formada pelo
+triplo dos valores dos elementos da matriz B, a terceira linha formada pelo quádruplo dos
+valores dos elementos da matriz C e a quarta linha formada pelo fatorial dos valores dos
+elementos da matriz D. Apresentar a matriz E.
+|6|	|3|	|9|	|9|	
+
+|8|	|1|	|5|	|1|	
+
+|6|	|3|	|6|	|9|	
+
+|9|	|2|	|3|	|4|	
+
+|12|	|6|	|18|	|18|	
+|24|	|3|	|15|	|3|	
+|24|	|12|	|24|	|36|	
+|362880|	|2|	|6|	|24|	
+
+Elaborar um programa que leia duas matrizes A e B, cada uma de duas dimensões com
+cinco linhas e seis colunas. A matriz A deve aceitar a entrada de valores pares, enquanto a
+matriz B deve aceitar a entrada de valores ímpares. As entradas dos valores nas matrizes A
+e B devem ser validadas pelo programa, e não pelo usuário. Construir a matriz C de mesma
+dimensão, que seja formada pela soma dos elementos da matriz A com os elementos da
+matriz B. Apresentar os elementos da matriz C.
+|6|	|10|	|4|	|2|	|10|	|4|	
+|10|	|4|	|8|	|4|	|4|	|2|	
+|2|	|10|	|2|	|6|	|6|	|8|	
+|4|	|8|	|8|	|2|	|6|	|10|	
+|6|	|10|	|4|	|4|	|2|	|6|	
+
+|1|	|3|	|9|	|7|	|1|	|7|	
+|7|	|1|	|3|	|3|	|1|	|9|	
+|5|	|3|	|1|	|1|	|1|	|1|	
+|9|	|7|	|7|	|9|	|7|	|1|	
+|7|	|1|	|1|	|1|	|1|	|9|	
+
+|7|	|13|	|13|	|9|	|11|	|11|	
+|17|	|5|	|11|	|7|	|5|	|11|	
+|7|	|13|	|3|	|7|	|7|	|9|	
+|13|	|15|	|15|	|11|	|13|	|11|	
+|13|	|11|	|5|	|5|	|3|	|15|	
+
+Elaborar um programa que leia duas matrizes A e B de duas dimensões com quatro linhas e
+cinco colunas. A matriz A deve ser formada por valores divisíveis por 3 e 4, enquanto a
+matriz B deve ser formada por valores divisíveis por 5 ou 6. As entradas dos valores nas
+matrizes devem ser validadas pelo programa, e não pelo usuário. Construir e apresentar a
+matriz C de mesma dimensão e número de elementos que contenha a subtração dos
+elementos da matriz A em relação aos elementos da matriz B.
+|12|	|60|	|48|	|72|	|24|	
+|36|	|36|	|60|	|84|	|36|	
+|96|	|24|	|48|	|60|	|60|	
+|60|	|96|	|12|	|24|	|48|	
+
+|100|	|55|	|66|	|95|	|45|	
+|75|	|45|	|80|	|90|	|55|	
+|72|	|70|	|45|	|10|	|100|	
+|54|	|30|	|35|	|10|	|66|	
+
+|-88|	|5|	|-18|	|-23|	|-21|	
+|-39|	|-9|	|-20|	|-6|	|-19|	
+|24|	|-46|	|3|	|50|	|-40|	
+|6|	|66|	|-23|	|14|	|-18|	
+
+Elaborar um programa que leia duas matrizes A e B de duas dimensões com quatro linhas e
+cinco colunas. A matriz A deve ser formada por valores divisíveis por 3 ou 4, enquanto a
+matriz B deve ser formada por valores divisíveis por 5 e 6. As entradas dos valores nas
+matrizes devem ser validadas pelo programa, e não pelo usuário. Construir e apresentar a
+matriz C de mesma dimensão e número de elementos que contenha o valor da multiplicação
+dos elementos da matriz A com os elementos correspondentes da matriz B.
+|96|	|81|	|32|	|4|	|51|	
+|27|	|68|	|88|	|24|	|4|	
+|3|	|75|	|64|	|36|	|56|	
+|66|	|33|	|12|	|76|	|93|	
+
+|90|	|90|	|60|	|90|	|90|	
+|60|	|30|	|30|	|30|	|30|	
+|60|	|90|	|60|	|30|	|60|	
+|30|	|90|	|60|	|90|	|60|	
+
+|8640|	|7290|	|1920|	|360|	|4590|	
+|1620|	|2040|	|2640|	|720|	|120|	
+|180|	|6750|	|3840|	|1080|	|3360|	
+|1980|	|2970|	|720|	|6840|	|5580|	
+
+|38|	|32|	|17|	|22|	|94|	
+|10|	|70|	|43|	|100|	|23|	
+|31|	|29|	|46|	|55|	|49|	
+|20|	|100|	|64|	|79|	|80|	
+|29|	|97|	|80|	|5|	|40|	
+
+|77|	|100|	|49|	|88|	|86|	
+|70|	|70|	|44|	|82|	|13|	
+|5|	|55|	|79|	|87|	|27|	
+|93|	|33|	|85|	|65|	|49|	
+|81|	|57|	|46|	|40|	|39|	
+
+|115|	|132|	|66|	|110|	|180|	
+|80|	|140|	|87|	|182|	|36|	
+|36|	|84|	|125|	|142|	|76|	
+|113|	|133|	|149|	|144|	|129|	
+|110|	|154|	|126|	|45|	|79|	
+
+|14|	|6|	|2|	|3|	|7|	
+|8|	|16|	|14|	|12|	|11|	
+|16|	|20|	|6|	|7|	|5|	
+|4|	|13|	|11|	|19|	|10|	
+|16|	|18|	|19|	|17|	|11|	
+
+|28|	|12|	|4|	|6|	|21|	
+|16|	|32|	|28|	|36|	|22|	
+|32|	|40|	|18|	|14|	|10|	
+|8|	|39|	|22|	|38|	|20|	
+|48|	|36|	|38|	|34|	|22|	
+
